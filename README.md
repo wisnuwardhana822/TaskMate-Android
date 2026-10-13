@@ -63,6 +63,36 @@ Pengguna dapat memperbarui informasi tugas yang sudah dibuat.
 
 
 \## 📂 Struktur Project
+TaskMate-Android
+│
+├── app
+│   └── Source Code aplikasi
+│
+├── gradle
+│
+├── build.gradle.kts
+│
+└── settings.gradle.kts
 
 
+## ⚙️ Cara Menjalankan Project
 
+1. Clone repository:
+git clone https://github.com/wisnuwardhana822/TaskMate-Android.git
+
+2. Buka project menggunakan Android Studio.
+
+3. Tunggu proses Gradle Sync selesai.
+
+4. Jalankan aplikasi menggunakan emulator atau perangkat Android.
+
+## 👨‍💻 Developer
+
+Wisnu Wardhana
+
+GitHub:
+https://github.com/wisnuwardhana822
+
+## 📌 Status Project
+
+Project aplikasi Android untuk memenuhi tugas pengembangan aplikasi mobile.
