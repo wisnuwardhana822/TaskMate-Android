@@ -75,15 +75,13 @@ TaskMate-Android
 └── settings.gradle.kts
 
 
+
 ## ⚙️ Cara Menjalankan Project
 
 1. Clone repository:
 git clone https://github.com/wisnuwardhana822/TaskMate-Android.git
-
 2. Buka project menggunakan Android Studio.
-
 3. Tunggu proses Gradle Sync selesai.
-
 4. Jalankan aplikasi menggunakan emulator atau perangkat Android.
 
 ## 👨‍💻 Developer
@@ -96,3 +94,38 @@ https://github.com/wisnuwardhana822
 ## 📌 Status Project
 
 Project aplikasi Android untuk memenuhi tugas pengembangan aplikasi mobile.
+
+## Cara Menjalankan Aplikasi
+
+
+
+1\. Clone repository:
+
+&#x20;  
+
+&#x20;  git clone https://github.com/wisnuwardhana822/TaskMate-Android.git
+
+
+
+2\. Buka project menggunakan Android Studio.
+
+
+
+3\. Tunggu proses Gradle Sync selesai.
+
+
+
+4\. Jalankan aplikasi menggunakan Emulator Android atau perangkat Android.
+
+
+
+\## Minimum Requirement
+
+
+
+\- Android Studio terbaru
+
+\- Android SDK
+
+\- Emulator Android / Device Android
+
